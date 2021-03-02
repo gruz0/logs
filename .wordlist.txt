@@ -1,0 +1,8 @@
+analytics
+Udemy
+Ferreira
+Filho
+Wladston
+rsync
+Jira
+PHPUnit
